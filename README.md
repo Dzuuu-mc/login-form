@@ -7,7 +7,8 @@ before running this code make sure you have installed nodejs and npm, after you 
 
 and to run the code run this command<br>
 `npm start`<br>
+
+
 then open your browser application and write
-<br>
 `localhost:3030`
 </p>
