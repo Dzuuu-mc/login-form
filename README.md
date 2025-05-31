@@ -10,7 +10,7 @@ and to run the code run this command<br>
 `npm start`<br>
 
 
-then open your browser application and write
+then open your browser application and write<br>
 `localhost:3030`
 </p>
 
