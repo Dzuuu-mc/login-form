@@ -1,7 +1,7 @@
 # Login From With nodejs & express
 
 <img src="img/login.png" width="100%"/>
-<img src="img/pages2.png" width="300"/>
+<img src="img/pages2.png" width="100%"/>
 
 
 <p>
